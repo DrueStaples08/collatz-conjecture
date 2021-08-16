@@ -31,4 +31,4 @@
 
 ##### from collatzsconjecture import CollatzConjecture
 ##### plot_1e6 = CollatzConjecture()
-##### plot_1e6.plot_collatz_conjecture(16.5)
+##### plot_1e6.plot_collatz_conjecture(1e6)
