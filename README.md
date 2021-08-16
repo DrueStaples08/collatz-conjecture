@@ -32,3 +32,7 @@
 ##### from collatzsconjecture import CollatzConjecture
 ##### plot_1e6 = CollatzConjecture()
 ##### plot_1e6.plot_collatz_conjecture(1e6)
+
+
+![cc_demo ipynb - Colaboratory - Google Chrome 8_15_2021 10_37_24 PM (2)](https://user-images.githubusercontent.com/48110880/129513729-5ebc150e-779d-463d-98be-b341579b90d7.png)
+
