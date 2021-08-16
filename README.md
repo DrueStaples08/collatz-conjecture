@@ -20,7 +20,7 @@
 
 
 
-# View cc_demo.pynb for demonstration on how to run class. It's three steps:
+# View cc_demo.pynb for demonstration on how to run class:
 
 ### 1.) pip install matplotlib if you don't already have it
 ### 2.) git clone this repo
@@ -29,6 +29,6 @@
 ### 4.) Whatever file or notebook your working on, make sure this clone repo lies in the same directory
 ### 5.) Type the following and run
 
-#### from collatzsconjecture import CollatzConjecture
-#### plot_1e6 = CollatzConjecture()
-#### plot_1e6.plot_collatz_conjecture(16.5)
+##### from collatzsconjecture import CollatzConjecture
+##### plot_1e6 = CollatzConjecture()
+##### plot_1e6.plot_collatz_conjecture(16.5)
