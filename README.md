@@ -16,3 +16,19 @@ b.) or you disprove Collatz's Conjecture by reaching 0 or a negative number
 
 
 Example:     5 -> 16 -> 8 -> 4 -> 2 -> 1
+
+
+
+
+-View cc_demo.pynb for demonstration on how to run class. It's three steps:
+
+-pip install matplotlib if you don't already have it
+-git clone this repo
+
+#Start a new blank python file, jupyter notebook, or colab notebook 
+#Whatever file or notebook your working on, make sure this clone repo lies in the same directory
+#Type the following and run
+
+from collatzsconjecture import CollatzConjecture
+plot_1e6 = CollatzConjecture()
+plot_1e6.plot_collatz_conjecture(16.5)
