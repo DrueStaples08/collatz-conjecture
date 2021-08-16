@@ -29,6 +29,6 @@ Example:     5 -> 16 -> 8 -> 4 -> 2 -> 1
 ###Whatever file or notebook your working on, make sure this clone repo lies in the same directory
 ###Type the following and run
 
-####from collatzsconjecture import CollatzConjecture
-####plot_1e6 = CollatzConjecture()
-####plot_1e6.plot_collatz_conjecture(16.5)
+from collatzsconjecture import CollatzConjecture
+plot_1e6 = CollatzConjecture()
+plot_1e6.plot_collatz_conjecture(16.5)
