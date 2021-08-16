@@ -2,7 +2,7 @@
 Based off of Collatz's Conjecture, try your own positive input to disprove the conjecture by reaching zero or less 
 
 
-Collatz Conjecture
+# Collatz Conjecture
 
 -Any positive integer fed into the Collatz's Conjecture will always end up in a 4-2-1 infinite loop
 
@@ -20,14 +20,14 @@ Example:     5 -> 16 -> 8 -> 4 -> 2 -> 1
 
 
 
--View cc_demo.pynb for demonstration on how to run class. It's three steps:
+# View cc_demo.pynb for demonstration on how to run class. It's three steps:
 
 -pip install matplotlib if you don't already have it
 -git clone this repo
 
-#Start a new blank python file, jupyter notebook, or colab notebook 
-#Whatever file or notebook your working on, make sure this clone repo lies in the same directory
-#Type the following and run
+-Start a new blank python file, jupyter notebook, or colab notebook 
+-Whatever file or notebook your working on, make sure this clone repo lies in the same directory
+-Type the following and run
 
 from collatzsconjecture import CollatzConjecture
 plot_1e6 = CollatzConjecture()
