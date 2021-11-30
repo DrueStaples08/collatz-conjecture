@@ -30,9 +30,10 @@
 ### 5.) Type the following and run
 
 ##### from collatzsconjecture import CollatzConjecture
-##### plot_1e6 = CollatzConjecture()
-##### plot_1e6.plot_collatz_conjecture(1e6)
+##### plot_25 = CollatzConjecture()
+##### plot_25.plot_collatz_conjecture(25)
 
 
-![cc_demo ipynb - Colaboratory - Google Chrome 8_15_2021 10_37_24 PM (2)](https://user-images.githubusercontent.com/48110880/129513729-5ebc150e-779d-463d-98be-b341579b90d7.png)
+![Plots - collatz_conjecture - Visual Studio Code  Administrator  11_30_2021 5_52_32 PM (2)](https://user-images.githubusercontent.com/48110880/144147022-2fdc91b9-4f51-49b7-a81c-e3256885b9d2.png)
+
 
